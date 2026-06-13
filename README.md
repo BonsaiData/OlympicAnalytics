@@ -43,12 +43,6 @@ Dataset:
 - A aceleração mais significativa ocorreu após a década de 1950.  
 - Em 2016 as mulheres já representavam quase metade dos atletas olímpicos.  
    
-## **Fonte**  
-Dataset obtido através do Kaggle:  
-- Olympic Data  
-- Autor do dataset: Bhanupratap Biswas  
-   
-   
 ## **Autor do projeto**  
 Gabriel Araujo - Bonsai Data  
 https://github.com/BonsaiData  

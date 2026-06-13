@@ -1,5 +1,6 @@
 # **Olympic Analytics**  
-   
+ [Participação Feminina nas Olimpíadas](images/participacao_feminina.png)  
+*Evolução da participação feminina nos Jogos Olímpicos entre 1896 e 2016.*  
 ## **O Projeto**  
 Este projeto explora a evolução da participação feminina nos Jogos Olímpicos entre 1896 e 2016 utilizando Python, Pandas e Matplotlib.  
 A análise busca compreender como a presença das mulheres nos Jogos evoluiu ao longo de mais de um século, identificando marcos históricos e tendências de crescimento. A partir de um dataset público do Kaggle, foram realizados processos de exploração, tratamento e visualização dos dados para transformar informações históricas em insights acessíveis.  

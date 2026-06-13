@@ -46,9 +46,10 @@ Dataset:
 ## **Fonte**  
 Dataset obtido através do Kaggle:  
 - Olympic Data  
-- Autor: Bhanupratap Biswas  
+- Autor do dataset: Bhanupratap Biswas  
    
-### **Autor do Projeto**  
+   
+**Autor do Projeto**  
 Gabriel Araujo - Bonsai Data  
 https://github.com/BonsaiData  
    

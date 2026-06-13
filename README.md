@@ -30,7 +30,7 @@ A análise busca compreender como a presença das mulheres nos Jogos evoluiu ao 
 Esta análise investiga a evolução da participação feminina nos Jogos Olímpicos entre 1896 e 2016, utilizando dados históricos de atletas e eventos.  
 O espaço das mulheres em 1896 neste âmbito, era praticamente inexistente. Em 2016, já representava uma parcela enorme dos atletas. O avanço não foi rápido nem linear, entretanto fora um avanço,  iniciando tímido, ganhando força no meio do século XX e acelerando bastante nas décadas finais.  
 Por fim, o gráfico mostra mais do que números. Ele mostra o quanto o espaço das mulheres nas Olimpíadas foi sendo conquistado ao longo de mais de 100 anos. De uma porcentagem de 0% em 1896, para 15,3% em 1952, até 43.5% de participação em 2016.  
-Esta base de dados postada pelo "Bhanupratap Biswas" na Kaggle foi essencial para evidenciar a história, que embora chocante, demonstre também de maneira positiva, o quanto a luta pelo espaço valeu à pena e cada vez mais, o mundo do esporte está mais democrático.  
+Esta base de dados postada pelo "Bhanupratap Biswas" na Kaggle foi essencial para evidenciar a história, que embora chocante, demonstra também de maneira positiva, o quanto a luta pelo espaço valeu à pena e cada vez mais, o mundo do esporte está mais democrático.  
    
 ## **Fonte dos Dados**  
 Os dados utilizados nesta análise foram obtidos através do dataset “Olympic Data”, disponibilizado por “Bhanupratap Biswas” na plataforma Kaggle.  

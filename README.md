@@ -37,7 +37,7 @@ Os dados utilizados nesta análise foram obtidos através do dataset “Olympic 
 Dataset:  
 [https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data](https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data "https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data")  
    
-## **Principais Conclusões**  
+## **Conclusões** ** Centrais**  
 - A participação feminina saiu de 0% para 43,5% entre 1896 e 2016.  
 - O crescimento foi gradual durante a primeira metade do século XX.  
 - A aceleração mais significativa ocorreu após a década de 1950.  

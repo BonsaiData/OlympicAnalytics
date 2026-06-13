@@ -49,7 +49,7 @@ Dataset obtido através do Kaggle:
 - Autor do dataset: Bhanupratap Biswas  
    
    
-**Autor do Projeto**  
+## **Autor do projeto**  
 Gabriel Araujo - Bonsai Data  
 https://github.com/BonsaiData  
    

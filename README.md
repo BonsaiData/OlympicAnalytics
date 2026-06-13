@@ -43,11 +43,11 @@ Dataset:
 - A aceleração mais significativa ocorreu após a década de 1950.  
 - Em 2016 as mulheres já representavam quase metade dos atletas olímpicos.  
    
-## **Autor do projeto**  
+## **Autor do Projeto**  
 Gabriel Araujo - Bonsai Data  
 https://github.com/BonsaiData  
    
-## **Sobre mim**  
+## **Sobre Mim**  
 Opa! Sou Gabriel, estudante de Ciência de Dados e entusiasta da análise de dados (iniciante), automação e resolução de problemas.  
 Este repositório é meu espaço de experimentação, aprendizado e construção de portfólio. Aqui compartilho projetos, estudos e análises desenvolvidos ao longo da minha jornada na área de dados.  
 Acredito que aprender vai muito além da teoria. Por isso, busco transformar dados em conhecimento, criar soluções práticas e documentar minha evolução técnica a cada novo projeto.  

@@ -1,5 +1,5 @@
 # **Olympic Analytics**  
- [Participação Feminina nas Olimpíadas](images/participacao_feminina.png)  
+ ![Participação Feminina nas Olimpíadas](images/participacao_feminina.png)  
 *Evolução da participação feminina nos Jogos Olímpicos entre 1896 e 2016.*  
 ## **O Projeto**  
 Este projeto explora a evolução da participação feminina nos Jogos Olímpicos entre 1896 e 2016 utilizando Python, Pandas e Matplotlib.  
